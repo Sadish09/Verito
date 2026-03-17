@@ -1,0 +1,68 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.Python
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.hypothesis/
+.coverage
+.coverage.*
+htmlcov/
+dist/
+build/
+site/
+.eggs/
+*.egg
+*.egg-info/
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# TypeScript / Node / Obsidian plugin build outputs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+.npm/
+.yarn/
+.parcel-cache/
+.turbo/
+.vite/
+coverage/
+*.tsbuildinfo
+plugin/dist/
+plugin/build/
+plugin/.obsidian/plugins/
+
+# Local backend data
+backend/storage/
+backend/embeddings/
+*.db
+*.sqlite
+*.sqlite3
+*.chroma/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+*~
