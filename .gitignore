@@ -45,9 +45,6 @@ pnpm-debug.log*
 .vite/
 coverage/
 *.tsbuildinfo
-plugin/dist/
-plugin/build/
-plugin/.obsidian/plugins/
 
 # Local backend data
 *.db
