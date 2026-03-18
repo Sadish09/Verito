@@ -50,8 +50,6 @@ plugin/build/
 plugin/.obsidian/plugins/
 
 # Local backend data
-backend/storage/
-backend/embeddings/
 *.db
 *.sqlite
 *.sqlite3
